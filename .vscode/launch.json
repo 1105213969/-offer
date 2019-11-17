@@ -1,0 +1,24 @@
+{
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q14",
+            "request": "launch",
+            "mainClass": "questions.Q14",
+            "projectName": "剑指offer_b3184ad"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q13",
+            "request": "launch",
+            "mainClass": "questions.Q13"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q12",
+            "request": "launch",
+            "mainClass": "questions.Q12"
+        }
+    ]
+}
