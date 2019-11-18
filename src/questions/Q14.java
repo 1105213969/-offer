@@ -1,7 +1,5 @@
 package questions;
 
-import javax.sound.sampled.SourceDataLine;
-
 /**
  * 输出链表的倒数第K个节点
  */
