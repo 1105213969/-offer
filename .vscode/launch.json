@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Q11",
+            "request": "launch",
+            "mainClass": "questions.Q11",
+            "projectName": "剑指offer_b3184ad"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Q15",
             "request": "launch",
             "mainClass": "questions.Q15",

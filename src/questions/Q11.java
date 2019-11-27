@@ -10,7 +10,6 @@ public class Q11 {
 
     public int NumberOf1(int n) {
        int num = 0;
-       int i = 1;
        while (n != 0) {
            num++;
            n = n & (n - 1);//每进行一次操作会减少一个1
