@@ -8,12 +8,6 @@ package questions;
  * @create: 2019-10-20 15:50
  **/
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
-}
 public class Q4 {
 
     public TreeNode reConstructBinaryTree(int [] pre,int [] in) {

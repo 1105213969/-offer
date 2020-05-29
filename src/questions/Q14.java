@@ -3,14 +3,6 @@ package questions;
 /**
  * 输出链表的倒数第K个节点
  */
-class ListNode {
-    int val;
-    ListNode next = null;
-
-    ListNode(int val) {
-        this.val = val;
-    }
-}
 
 public class Q14 {
 

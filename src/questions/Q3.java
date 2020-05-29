@@ -10,18 +10,7 @@ package questions;
  **/
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
-
-class ListNode {
-    int val;
-    ListNode next = null;
-
-    ListNode(int val) {
-        this.val = val;
-    }
- }
-
 
 public class Q3 {
 

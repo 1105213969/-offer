@@ -3,16 +3,6 @@ package questions;
 /**
  * 翻转链表
  */
-
-class ListNode {
-    int val;
-    ListNode next = null;
-
-    ListNode(int val) {
-        this.val = val;
-    }
-}
-
 //p->head->0->0->0
 
 public class Q15 {

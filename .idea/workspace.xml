@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97befcf8-4bf1-4c60-98ac-2f7967a1e3c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/习题目录.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/习题目录.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/习题目录.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/习题目录.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +56,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Q12">
+  <component name="RunManager" selected="Application.Q19">
     <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="questions.Q10" />
       <module name="剑指offer" />
@@ -77,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questions.Q8" />
+    <configuration name="Q19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.Q19" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q19" />
         <item itemvalue="Application.Q12" />
         <item itemvalue="Application.Q11" />
         <item itemvalue="Application.Q10" />
         <item itemvalue="Application.Q9" />
-        <item itemvalue="Application.Q8" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +163,12 @@
       <workItem from="1572658523158" duration="2513000" />
       <workItem from="1572705180673" duration="72000" />
       <workItem from="1573381804224" duration="203000" />
-      <workItem from="1579337133378" duration="2531000" />
+      <workItem from="1579337133378" duration="3471000" />
+      <workItem from="1586775768715" duration="654000" />
+      <workItem from="1587137139301" duration="401000" />
+      <workItem from="1587211397631" duration="768000" />
+      <workItem from="1588252290668" duration="24000" />
+      <workItem from="1590762045710" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="第7，8，9，10，11题">
       <created>1572168087122</created>
@@ -158,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572705221983</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第19题 预热0.0">
+      <created>1579350019891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579350019891</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第19题 预热0.0">
+      <created>1579350104658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579350104658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,13 +207,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第7，8，9，10，11题" />
     <MESSAGE value="第12题" />
-    <option name="LAST_COMMIT_MESSAGE" value="第12题" />
+    <MESSAGE value="第19题 预热0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="第19题 预热0.0" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="535" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579337142279">
+    <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590762064558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="535" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1579337142279" />
+    <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1590762064558" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1588252319186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588252319186" />
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1590762453813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590762453813" />
+    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1590762453813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590762453813" />
+    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1590762453812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590762453812" />
+    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1590762453813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590762453813" />
+    <state x="190" y="0" key="SettingsEditor" timestamp="1587137183646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="190" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587137183646" />
+    <state x="369" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1588252297197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588252297197" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
