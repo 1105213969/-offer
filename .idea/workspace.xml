@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97befcf8-4bf1-4c60-98ac-2f7967a1e3c2" name="Default Changelist" comment="">
+    <list default="true" id="97befcf8-4bf1-4c60-98ac-2f7967a1e3c2" name="Default Changelist" comment="mod">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/习题目录.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/习题目录.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/习题目录.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/ListNode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +147,7 @@
       <workItem from="1587137139301" duration="401000" />
       <workItem from="1587211397631" duration="768000" />
       <workItem from="1588252290668" duration="24000" />
-      <workItem from="1590762045710" duration="630000" />
+      <workItem from="1590762045710" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="第7，8，9，10，11题">
       <created>1572168087122</created>
@@ -189,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590762507676</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="mod">
+      <created>1590762702466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590762702466</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mod">
+      <created>1590762770865</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590762770865</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,17 +209,22 @@
     <MESSAGE value="第12题" />
     <MESSAGE value="第19题 预热0.0" />
     <MESSAGE value="第19题 顺时针打印矩阵" />
-    <option name="LAST_COMMIT_MESSAGE" value="第19题 顺时针打印矩阵" />
+    <MESSAGE value="mod" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod" />
   </component>
   <component name="WindowStateProjectService">
     <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590762064558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1590762064558" />
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1590762701327">
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590762790284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590762701327" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590762790284" />
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1590762806610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590762806610" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1588252319186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -235,10 +249,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="190" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587137183646" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590762706876">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590762774648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590762706876" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590762774648" />
     <state x="369" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1588252297197">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
