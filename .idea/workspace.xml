@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97befcf8-4bf1-4c60-98ac-2f7967a1e3c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q10.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/Q9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/Q9.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/TreeNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/剑指offer/questions/习题目录.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/剑指offer/questions/习题目录.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/习题目录.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +152,7 @@
       <workItem from="1587137139301" duration="401000" />
       <workItem from="1587211397631" duration="768000" />
       <workItem from="1588252290668" duration="24000" />
-      <workItem from="1590762045710" duration="304000" />
+      <workItem from="1590762045710" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="第7，8，9，10，11题">
       <created>1572168087122</created>
@@ -198,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579350104658</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第19题 顺时针打印矩阵">
+      <created>1590762507676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590762507676</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,13 +199,18 @@
     <MESSAGE value="第7，8，9，10，11题" />
     <MESSAGE value="第12题" />
     <MESSAGE value="第19题 预热0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="第19题 预热0.0" />
+    <MESSAGE value="第19题 顺时针打印矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="第19题 顺时针打印矩阵" />
   </component>
   <component name="WindowStateProjectService">
     <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590762064558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1590762064558" />
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1590762506317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590762506317" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1588252319186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -239,6 +235,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="190" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587137183646" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590762537381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590762537381" />
     <state x="369" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1588252297197">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
